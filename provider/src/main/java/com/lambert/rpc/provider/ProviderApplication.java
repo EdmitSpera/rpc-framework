@@ -5,7 +5,7 @@ import com.lambert.rpc.core.register.LocalRegistry;
 import com.lambert.rpc.core.server.VertxHttpServer;
 import com.lambert.rpc.provider.serviceImpl.UserServiceImpl;
 
-public class EasyProviderExample {
+public class ProviderApplication {
     public static void main(String[] args) {
         // 注册服务
         LocalRegistry.register(UserService.class.getName(), UserServiceImpl.class);

@@ -1,6 +1,6 @@
 package com.lambert.rpc.provider.serviceImpl;
 
-import com.lambert.rpc.common.entity.User;
+import com.lambert.rpc.common.model.User;
 import com.lambert.rpc.common.service.UserService;
 
 public class UserServiceImpl implements UserService {

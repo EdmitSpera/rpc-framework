@@ -1,10 +1,10 @@
 package com.lambert.rpc.consumer;
 
-import com.lambert.rpc.common.entity.User;
+import com.lambert.rpc.common.model.User;
 import com.lambert.rpc.common.service.UserService;
 import com.lambert.rpc.core.proxy.ServiceProxyFactory;
 
-public class EasyConsumerExample {
+public class ConsumerApplication {
     public static void main(String[] args) {
         // 静态代理
 //        UserServiceProxy userService = new UserServiceProxy();
