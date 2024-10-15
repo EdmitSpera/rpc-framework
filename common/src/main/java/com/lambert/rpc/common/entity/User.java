@@ -1,4 +1,4 @@
-package com.lambert.rpc.common.model;
+package com.lambert.rpc.common.entity;
 
 import java.io.Serializable;
 

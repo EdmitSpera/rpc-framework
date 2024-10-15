@@ -1,8 +1,8 @@
-package com.lambert.rpc.consumer.proxy;
+package com.lambert.rpc.consumer.staticProxy;
 
 import cn.hutool.http.HttpRequest;
 import cn.hutool.http.HttpResponse;
-import com.lambert.rpc.common.model.User;
+import com.lambert.rpc.common.entity.User;
 import com.lambert.rpc.common.service.UserService;
 import com.lambert.rpc.core.model.RpcReqDTO;
 import com.lambert.rpc.core.model.RpcRespDTO;

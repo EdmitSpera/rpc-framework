@@ -3,6 +3,7 @@ package com.lambert.rpc.provider;
 import com.lambert.rpc.common.service.UserService;
 import com.lambert.rpc.core.register.LocalRegistry;
 import com.lambert.rpc.core.server.VertxHttpServer;
+import com.lambert.rpc.provider.serviceImpl.UserServiceImpl;
 
 public class EasyProviderExample {
     public static void main(String[] args) {

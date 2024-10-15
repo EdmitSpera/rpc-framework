@@ -40,6 +40,5 @@ public class VertxHttpServer implements HttpServer{
                 System.out.println("Failed to listen on port " + port);
             }
         });
-
     }
 }

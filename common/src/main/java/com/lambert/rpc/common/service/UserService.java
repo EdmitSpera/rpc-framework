@@ -1,6 +1,6 @@
 package com.lambert.rpc.common.service;
 
-import com.lambert.rpc.common.model.User;
+import com.lambert.rpc.common.entity.User;
 
 /**
  * 桩文件
